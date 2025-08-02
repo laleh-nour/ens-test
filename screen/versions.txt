@@ -1,0 +1,13 @@
+===== 🔍 Installed Web3 Tools and Versions =====
+
+🔹 Node.js: v20.15.1
+🔹 npm: 10.7.0
+🔹 npx: 10.7.0
+🔹 Hardhat: 2.26.1
+🔹 Git: git version 2.32.1 (Apple Git-133)
+🔹 jq: jq-1.8.1
+🔹 Slither: 0.11.3
+
+📁 Project: ens-contracts
+📂 Directory: /Users/sepehrsalami/ens-contracts
+🕒 Time: Thu Jul 31 18:57:51 +0330 2025
