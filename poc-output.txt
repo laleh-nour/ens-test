@@ -1,0 +1,3 @@
+Recipient balance before attack: 2.0 ETH
+TX hash: 0x6ce6757a8f6548eba22c536790421f1fbf2626257a63fe11501201127bea21d9
+Recipient balance after attack: 3.0 ETH
