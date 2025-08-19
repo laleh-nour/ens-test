@@ -1,3 +1,5 @@
+> ⚠️ Archived: This repository is an earlier experiment.
+> Please see the finalized case study here: https://github.com/laleh-nour/ens-poc-test
 
 # ENS ETHRegistrarController PoC
 
